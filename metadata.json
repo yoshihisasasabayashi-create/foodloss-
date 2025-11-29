@@ -1,0 +1,7 @@
+{
+  "name": "Copy of 和菓子トラッカー (Wagashi Tracker)",
+  "description": "和菓子の配達員がリアルタイムで位置情報を共有し、Geminiを活用して風情ある配達状況メッセージを生成するWebアプリです。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
